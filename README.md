@@ -1,2 +1,2 @@
 # Evklid
-Skillbox homework project
+Сайт разработанный на основе домашних заданий Skillbox
